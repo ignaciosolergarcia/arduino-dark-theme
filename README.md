@@ -1,3 +1,5 @@
+<img src="https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/images/arduino_ide.jpg" alt="Arduino logo" width="100" height="100" align="right" />
+
 # Arduino IDE Dark Theme
 Arduino IDE dark theme that mimics the dark theme available in the online editor based on [One Dark Arduino](https://github.com/konrad91/OneDarkArduino/) modifying only the text editor settings so it looks exactly like the arduino wed editor.
 
@@ -18,7 +20,7 @@ The way of installing Themes on windows has changed and most of the documentatio
 
 To correctly install the theme:
 
-  Download the [THEME](https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/arduino-ide-dark-theme.zip) in .zip file format (do not unzip).
+* Download the [zip file with the Theme](https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/arduino-ide-dark-theme.zip) (do not unzip).
 * Check in your Arduino IDE Preferences dialog your project folder.
 * Create in that folder a new theme folder.
 * Copy the donwloaded theme to the new theme folder.
