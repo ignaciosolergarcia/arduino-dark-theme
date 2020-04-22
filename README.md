@@ -1,4 +1,4 @@
-<img src="https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/images/arduino_ide.jpg" alt="Arduino logo" width="100" height="100" align="right" />
+<img src="https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/images/arduino_logo.jpg" alt="Arduino logo" width="100" height="100" align="right" />
 
 # Arduino IDE Dark Theme
 Arduino IDE dark theme that mimics the dark theme available in the online editor based on [One Dark Arduino](https://github.com/konrad91/OneDarkArduino/) modifying only the text editor settings so it looks exactly like the arduino wed editor.
