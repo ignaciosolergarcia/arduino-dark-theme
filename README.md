@@ -1,11 +1,11 @@
 # Arduino IDE Dark Theme
 Arduino IDE dark theme that mimics the dark theme available in the online editor based on [One Dark Arduino](https://github.com/konrad91/OneDarkArduino/) modifying only the text editor settings so it looks exactly like the arduino wed editor.
 
-![screenshot](https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/ide_screenshot.png)
+![screenshot](https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/screens/ide_screenshot.png)
 
 Here you can see a side by side comparison of both editors.
 
-![comparison](https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/ide_vs_browser.png)
+![comparison](https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/screens/ide_vs_browser.png)
 
 ### INSTALLATION  
 
