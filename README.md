@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-59885076-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-59885076-4');
+</script>
+
 <img src="https://github.com/ignaciosolergarcia/arduino-dark-theme/blob/master/images/arduino_logo.jpg" alt="Arduino logo" width="100" height="100" align="right" />
 
 # Arduino IDE Dark Theme
